@@ -1,9 +1,9 @@
 {
-  "name": "seba-vetto",
+  "name": "clear",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "five-server"
   },
   "author": "Sebastian Vettorazzi",
   "license": "ISC",
